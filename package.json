@@ -1,0 +1,24 @@
+{
+  "name": "addition-therebelrobot",
+  "version": "0.0.1",
+  "description": "foo bar",
+  "main": "addition.js",
+  "scripts": {
+    "test": "tap *.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/addition-therebelrobot.git"
+  },
+  "keywords": [
+    "addition",
+    "trent",
+    "oswald"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/addition-therebelrobot/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/addition-therebelrobot#readme"
+}
